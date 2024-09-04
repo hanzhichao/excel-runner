@@ -1,7 +1,5 @@
 requests
 openpyxl
 
-pyyaml
-pymysql
 
 pytest
