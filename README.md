@@ -6,10 +6,10 @@ Run Http requests list in excel sheet
 
 ## how to use
 
-Install excel-runner v0.1.0
+Install excel-runner v0.1.2
 
 ```shell
-pip install excel-runner==0.1.0
+pip install excel-runner==0.1.2
 ```
 
 
