@@ -1,5 +1,7 @@
 requests
-xlrd
-xlutils
+openpyxl
+
+pyyaml
+pymysql
 
 pytest
